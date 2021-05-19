@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Volunteer - Policies - PlaySchule </title>
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="/assets/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="/assets/css/style.min.css" rel="stylesheet">
+  </head>
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg bg-primary-darkest fixed-top" id="navbar-main">
+      <div class="container"><a class="navbar-brand text-white" href="/">
+          <h3>PlaySchule</h3></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-menu" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon text-white"><i class="fas fa-bars"></i></span></button>
+        <div class="navbar-collapse collapse" id="navbar-main-menu">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link active" href="/events">Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="/fundraising">Fundraising</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#governance">Governance</a></li>
+            <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#policies">Policies</a></li>
+            <li class="nav-item"><a class="nav-link" href="/resources">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="/volunteer">Volunteer</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="mt-5"></div>
+    <div class="document">
+      <div class="container">
+        <div class="row">
+          <div class="section">
+            <div class="title">Volunteer Policy</div>
+            <div class="revision">Version: 0.01 (Draft)</div>
+            <div class="review">Reviewed: July 3rd 2019 by Trustees</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="section">
+            <div class="section-title">Audience</div>
+            <p>This policy applies to any and all persons undertaking activities on behalf of PlaySchule including, but not limited to:</p>
+            <ul>
+              <li>Trustees</li>
+              <li>Project Managers</li>
+              <li>Developemnt Officers</li>
+              <li>Volunteers</li>
+              <li>Funders</li>
+            </ul>
+          </div>
+          <div class="section">
+            <div class="section-title">Why Have A Volunteer Policy?</div>
+            <p>A Volunteer Policy gives PlaySchule a consistent way to approach the involvement of volunteers across our whole organisation. It helps to ensure
+              that everyone involved in the organisation understand and value volunteers’ involvement.
+            </p>
+          </div>
+          <div class="section">
+            <div class="section-title">Legal Framework</div>
+            <p>This policy has been drawn up on the basis of law and guidance that seeks to value and protect our members, volunteers and staff, namely:</p>
+            <ul>
+              <li>The Equality Act of 2010</li>
+              <li>The Health &amp; Safety At Work Act of 1974</li>
+              <li>Relevant Government &amp; Staturotry Guidance On Volunteering</li>
+            </ul>
+          </div>
+          <div class="section">
+            <div class="section-title">Volunteer Definition</div>
+            <p>Volunteers are entirely different to employees and workers. This is the NCVO definition of volunteering:</p>
+            <q>…any activity that involves spending time, unpaid, doing something that aims to benefit the environment or someone (individuals or groups) other than, or in addition to, close relatives.</q>
+            <p>Unlike an employee or worker, a volunteer:</p>
+            <ul>
+              <li>does not give their time or skills under contract</li>
+              <li>is unpaid</li>
+              <li>is not entitled to protection from employment law.</li>
+            </ul>
+          </div>
+          <div class="section">
+            <div class="section-title">In Practise</div>
+            <p>We will seek to eunsure best practicies by:</p>
+            <ol>
+              <li>Develop this policy in consultation with staff and volunteers and be reviewed on a regular basis to ensure that it continues to be fit for purpose.</li>
+            </ol>
+          </div>
+        </div>
+        <div class="row"><a class="back" href="#">&lt; BACK</a>
+        </div>
+      </div>
+    </div>
+    <section class="bg-primary content-section" id="links">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/events">Events</a></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/governance">Governance</a></p>
+              <ul class="qlink-item">
+                <li class="qlink-item"><a href="/documents/constitution">Constitution</a></li>
+                <li class="qlink-item"><a href="https://www.charitycommissionni.org.uk/charity-details/?regId=107244" target="_blank">Charity Commission Register</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink" id="policies">
+              <p><a class="qlink-header" href="/policies">Policies</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="/documents/child-protection"> Child Protection</a></li>
+                <li class="qlink-item"><a href="/documents/code-of-conduct">Code of Conduct</a></li>
+                <li class="qlink-item"><a href="/documents/health-and-safety">Health &amp; Safety</a></li>
+                <li class="qlink-item"><a href="/documents/safeguarding">Safeguarding</a></li>
+                <li class="qlink-item"><a href="/documents/volunteer">Volunteers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/projects">Projects</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="#">After Schools</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="bg-primary-darkest text-center">
+      <p class="text-white small mb-0">&copy; PlaySchule 2019<br>Registered with the Charity Commission for Northern Ireland - NIC107244</p>
+    </footer><a class="scroll-to-top rounded js-scroll-trigger" href="#page-top"><i class="fas fa-angle-up"></i></a>
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript-->
+    <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template-->
+    <script src="/assets/js/playschule.min.js"></script>
+  </body>
+</html>

@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Policies - PlaySchule</title>
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="/assets/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="/assets/css/style.min.css" rel="stylesheet">
+  </head>
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg bg-primary-darkest fixed-top" id="navbar-main">
+      <div class="container"><a class="navbar-brand text-white" href="/">
+          <h3>PlaySchule</h3></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-menu" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon text-white"><i class="fas fa-bars"></i></span></button>
+        <div class="navbar-collapse collapse" id="navbar-main-menu">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link active" href="/events">Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="/fundraising">Fundraising</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#governance">Governance</a></li>
+            <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#policies">Policies</a></li>
+            <li class="nav-item"><a class="nav-link" href="/resources">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="/volunteer">Volunteer</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="mt-5"></div>
+    <div class="document">
+      <div class="container">
+        <div class="row">
+          <div class="section">
+            <div class="title">Documents</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="container">
+            <div class="row">
+              <div id="governance"></div>
+              <div class="col-md-12 section">
+                <div class="section-title">Governance</div>
+                <div class="section-content">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/constitution">Constitiution</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-export"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="https://www.charitycommissionni.org.uk/charity-details/?regId=107244" target="_blank">Charity Registration</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/trustees">Trustees</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-12 section">
+                <div class="section-title" id="policies">Policies</div>
+                <div class="section-content">
+                  <div class="container">
+                    <div class="row">
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/child-protection">Child Protection</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/code-of-conduct">Code Of Conduct</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/health-and-safety">Health &amp; Safety</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/safeguarding">Safeguarding</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 col-sm-12">
+                        <div class="media"><span class="fa-3x"><i class="fas fa-file-alt"></i></span>
+                          <div class="media-body ml-5">
+                            <h4><a href="/documents/volunteer">Volunteers</a></h4>
+                            <p>Version: 0.03<br>Reviewed: September 7th 2019</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row"><a class="back" href="#">&lt; Back</a>
+        </div>
+      </div>
+    </div>
+    <section class="bg-primary content-section" id="links">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/events">Events</a></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/governance">Governance</a></p>
+              <ul class="qlink-item">
+                <li class="qlink-item"><a href="/documents/constitution">Constitution</a></li>
+                <li class="qlink-item"><a href="https://www.charitycommissionni.org.uk/charity-details/?regId=107244" target="_blank">Charity Commission Register</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink" id="policies">
+              <p><a class="qlink-header" href="/policies">Policies</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="/documents/child-protection"> Child Protection</a></li>
+                <li class="qlink-item"><a href="/documents/code-of-conduct">Code of Conduct</a></li>
+                <li class="qlink-item"><a href="/documents/health-and-safety">Health &amp; Safety</a></li>
+                <li class="qlink-item"><a href="/documents/safeguarding">Safeguarding</a></li>
+                <li class="qlink-item"><a href="/documents/volunteer">Volunteers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/projects">Projects</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="#">After Schools</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="bg-primary-darkest text-center">
+      <p class="text-white small mb-0">&copy; PlaySchule 2019<br>Registered with the Charity Commission for Northern Ireland - NIC107244</p>
+    </footer><a class="scroll-to-top rounded js-scroll-trigger" href="#page-top"><i class="fas fa-angle-up"></i></a>
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript-->
+    <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template-->
+    <script src="/assets/js/playschule.min.js"></script>
+  </body>
+</html>

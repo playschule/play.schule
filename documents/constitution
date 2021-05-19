@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>Consitiution - Governance - PlaySchule </title>
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="/assets/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="/assets/css/style.min.css" rel="stylesheet">
+  </head>
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg bg-primary-darkest fixed-top" id="navbar-main">
+      <div class="container"><a class="navbar-brand text-white" href="/">
+          <h3>PlaySchule</h3></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-menu" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon text-white"><i class="fas fa-bars"></i></span></button>
+        <div class="navbar-collapse collapse" id="navbar-main-menu">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link active" href="/events">Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="/fundraising">Fundraising</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#governance">Governance</a></li>
+            <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#policies">Policies</a></li>
+            <li class="nav-item"><a class="nav-link" href="/resources">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="/volunteer">Volunteer</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="mt-5"></div>
+    <div class="document">
+      <div class="container">
+        <div class="row">
+          <div class="section">
+            <div class="title">Constitution</div>
+            <div class="revision">Version: 0.7 (Draft)</div>
+            <div class="review">Reviewed: March 3rd 2019 by Trustees</div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="section">
+            <div class="section-title">01. Name</div>
+            <p>The name of the charity is PlaySchule</p>
+          </div>
+          <div class="section">
+            <div class="section-title">02. Charitable Purposes</div>
+            <p>
+              To promote activities in Derry City and its surrounding environs in the North West of Ireland
+              (hereafter called the “area of benefit”) by provisioning and sustaining resources, aimed at
+              increasing social skills among young people (hereinafter called “the beneficiaries”) and awareness
+              throughout the community without distinction of disability, sexual orientation, nationality, ethnic
+              identity, political or religious opinion, with the object of improving the conditions of life.
+              In particular, these are as follow
+            </p>
+            <ol>
+              <li>To educate and assist the beneficiaries aged 11 to 25 through physical and mental activities within the area of benefit by developing and improving their social skills so as to develop their awareness and understanding.</li>
+              <li>To increase emotional intelligence among the beneficiaries through cross-community activities and partnerships by building self-awareness, self-regulation, social awareness, and relationship management, so that they grow to full maturity as individuals and citizens and that their conditions of life may be improved.</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">03. Trustees</div>
+            <p>The charity shall be managed by a committee of trustees who are appointed at the Annual General Meeting (AGM) of the charity.</p>
+          </div>
+          <div class="section">
+            <div class="section-title">04. Carry Out The Purposes</div>
+            <p>In order to carry out the charitable purposes, the trustees have the power to:</p>
+            <ol>
+              <li>raise funds, receive grants and donations</li>
+              <li>apply funds to carry out the work of the charity</li>
+              <li>cooperate with and support other charities with similar purposes</li>
+              <li>do anything which is lawful and necessary to achieve the purposes</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">05. Membership</div>
+            <p>
+              The charity shall have a membership. People who support the work of the charity and are aged 18 or over,
+              can apply to the trustees to become a member. Once accepted by the trustees, membership lasts for 3 years
+              and may be renewed. The trustees will keep an up-to-date membership list.
+            </p>
+            <p>
+              The trustees may remove a person’s membership if they believe it is in the best interests of the charity.
+              The member has the right to be heard by the trustees before the decision is made and can be accompanied by
+              a friend.
+            </p>
+          </div>
+          <div class="section">
+            <div class="section-title">06. Annual General Meeting - AGM</div>
+            <ol>
+              <li>The AGM must be held every year, with a minimum of 14 days notice given to all members telling them what is on the agenda. Minutes must be kept of the AGM.</li>
+              <li>There must be at least 3 members present at the AGM.</li>
+              <li>Every member has one vote. </li>
+              <li>The trustees shall present the annual report and accounts.</li>
+              <li>Any member may stand for election as a trustee.</li>
+              <li>Members shall elect between 3 and 7 trustees to serve for the next year. They will retire at the next AGM but may stand for re-election.</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">07. Trustee Meetings</div>
+            <ol>
+              <li>Trustees must hold at least 3 meetings each year. At their first meeting after the AGM they will elect a chair, treasurer and secretary. Trustees may act by majority decision.</li>
+              <li>At least 3 trustees must be present at the meeting to be able to take decisions. Minutes shall be kept for every meeting.</li>
+              <li>If trustees have a conflict of interest they must declare it and leave the meeting while this matter is being discussed or decided.</li>
+              <li>During the year, the trustees may appoint up to 2 additional trustees. They will stand down at the next AGM.</li>
+              <li>The trustees may make reasonable additional rules to help run the charity. These rules must not conflict with this constitution or the law.</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">08. Money And Property</div>
+            <ol>
+              <li>Money and property must only be used for the charity’s purposes.</li>
+              <li>Trustees must keep accounts. The most recent annual accounts can be seen by anybody on request.</li>
+              <li>Trustees cannot receive any money or property from the charity, except to refund reasonable out of pocket expenses.</li>
+              <li>Money must be held in the charity’s bank account. All transactions resulting in expenditure must be signed by 2 trustees.</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">09. General Meeting</div>
+            <p>
+              If the Trustees consider it is necessary to change the constitution, or wind up the charity, they must
+              call a General Meeting so that the membership can make the decision. Trustees must also call a General
+              Meeting if they receive a written request from the majority of members. All members must be given a
+              minimum of 14 days notice and told the reason for the meeting. All decisions require a two thirds majority.
+              Minutes must be kept.
+            </p>
+            <ol>
+              <li>Winding up - any money or property remaining after payment of debts must be given to a charity with similar purposes to this one.</li>
+              <li>Changes to the Constitution - can be made at AGMs or General Meetings. No amendment can be made to the constitution that will cease the charity to be a charity in law as determined by the Charity Commissioners Northern Ireland.</li>
+              <li>General Meeting - called on written request from a majority of members.</li>
+              <li>Trustees may also call a General Meeting to consult the membership.</li>
+            </ol>
+          </div>
+          <div class="section">
+            <div class="section-title">10. Setting Up The Charity</div>
+            <p>
+              This constitution was adopted on September 1st 2018 by the people whose signatures appear below. They are the
+              first members of the charity and will be the trustees until the AGM, which must be held within one year of this date.
+            </p>
+            <ul>
+              <li>Claire Cox (<a href="mailto:ccox@play.schule">ccox@play.schule</a>)</li>
+              <li>Alan McCay (<a href="mailto:amccay@play.schule">amccay@play.schule</a>)</li>
+              <li>Dana Rice (<a href="mailto:drice@play.schule">drice@play.schule</a>)</li>
+            </ul><i>Signatures removed of security reasons</i><br><br>
+          </div>
+        </div>
+        <div class="row"><a class="back" href="#">&lt; BACK</a>
+        </div>
+      </div>
+    </div>
+    <section class="bg-primary content-section" id="links">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/events">Events</a></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/governance">Governance</a></p>
+              <ul class="qlink-item">
+                <li class="qlink-item"><a href="/documents/constitution">Constitution</a></li>
+                <li class="qlink-item"><a href="https://www.charitycommissionni.org.uk/charity-details/?regId=107244" target="_blank">Charity Commission Register</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink" id="policies">
+              <p><a class="qlink-header" href="/policies">Policies</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="/documents/child-protection"> Child Protection</a></li>
+                <li class="qlink-item"><a href="/documents/code-of-conduct">Code of Conduct</a></li>
+                <li class="qlink-item"><a href="/documents/health-and-safety">Health &amp; Safety</a></li>
+                <li class="qlink-item"><a href="/documents/safeguarding">Safeguarding</a></li>
+                <li class="qlink-item"><a href="/documents/volunteer">Volunteers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/projects">Projects</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="#">After Schools</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="bg-primary-darkest text-center">
+      <p class="text-white small mb-0">&copy; PlaySchule 2019<br>Registered with the Charity Commission for Northern Ireland - NIC107244</p>
+    </footer><a class="scroll-to-top rounded js-scroll-trigger" href="#page-top"><i class="fas fa-angle-up"></i></a>
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript-->
+    <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template-->
+    <script src="/assets/js/playschule.min.js"></script>
+  </body>
+</html>

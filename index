@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <title>PlaySchule Website</title>
+    <link href="/assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="/assets/vendor/simple-line-icons/css/simple-line-icons.css" rel="stylesheet">
+    <link href="/assets/css/style.min.css" rel="stylesheet">
+  </head>
+  <body id="page-top">
+    <nav class="navbar navbar-expand-lg bg-primary-darkest fixed-top" id="navbar-main">
+      <div class="container"><a class="navbar-brand text-white" href="/">
+          <h3>PlaySchule</h3></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-main-menu" aria-controls="navbar-main" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon text-white"><i class="fas fa-bars"></i></span></button>
+        <div class="navbar-collapse collapse" id="navbar-main-menu">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"><a class="nav-link active" href="/events">Events</a></li>
+            <li class="nav-item"><a class="nav-link" href="/fundraising">Fundraising</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#governance">Governance</a></li>
+            <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
+            <li class="nav-item"><a class="nav-link" href="/docs#policies">Policies</a></li>
+            <li class="nav-item"><a class="nav-link" href="/resources">Resources</a></li>
+            <li class="nav-item"><a class="nav-link" href="/services">Services</a></li>
+            <li class="nav-item"><a class="nav-link" href="/volunteer">Volunteer</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="mt-5"></div>
+    <div class="head carousel slide d-flex" id="headCarousel" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li class="active" data-target="#headCarousel" data-slide-to="0"></li>
+        <li data-target="#headCarousel" data-slide-to="1"></li>
+        <li data-target="#headCarousel" data-slide-to="2"></li>
+        <li data-target="#headCarousel" data-slide-to="3"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active" style="background-image: url('/assets/images/bg-1.jpg')">
+          <div class="carousel-caption d-none d-md-block"></div>
+        </div>
+        <div class="carousel-item" style="background-image: url('/assets/images/bg-2.jpg')">
+          <div class="carousel-caption d-none d-md-block"></div>
+        </div>
+        <div class="carousel-item" style="background-image: url('/assets/images/bg-3.jpg'); background-position: top center; ">
+          <div class="carousel-caption d-none d-md-block"></div>
+        </div>
+        <div class="carousel-item" style="background-image: url('/assets/images/bg-4.jpg'); ">
+          <div class="carousel-caption d-none d-md-block"></div>
+        </div>
+      </div><a class="carousel-control-prev" href="#headCarousel" role="button" data-slide="prev"><span class="carousel-control-prev-icon" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control-next" href="#headCarousel" role="button" data-slide="next"><span class="carousel-control-next-icon" aria-hidden="true"></span><span class="sr-only">Next</span></a>
+    </div>
+    <section class="contact content-section text-center" id="contact">
+      <div class="container">
+        <div class="content-section-heading text-center">
+          <h2 class="mb-5">Get In Touch</h2>
+        </div>
+        <div class="row contact-info">
+          <div class="col-xl-3 col-md-6">
+            <div class="blurb"><i class="blurb-icon text-primary-darkest icon-screen-smartphone"></i>
+              <p class="blurb-heading text-primary">Call</p>
+              <p class="blurb-item-title text-secondary">Main</p>
+              <p class="blurb-item-content text-primary"><a href="tel:+443003654300">+44 300 3654 300</a></p>
+              <p class="blurb-item-title text-secondary">Project Manager</p>
+              <p class="blurb-item-content text-primary"><a href="tel:+4471444444">+44 28 7144 4444</a></p>
+            </div>
+          </div>
+          <div class="col-xl-3 col-md-6">
+            <div class="blurb"><i class="blurb-icon text-primary-darkest icon-envelope-letter"></i>
+              <p class="blurb-heading text-primary">Email</p>
+              <p class="blurb-item-title text-secondary">General</p>
+              <p class="blurb-item-content text-primary"><a href="mailto:info@play.schule">info@play.schule</a></p>
+              <p class="blurb-item-title text-secondary">Events</p>
+              <p class="blurb-item-content text-primary"><a href="mailto:events@play.schule">events@play.schule</a></p>
+              <p class="blurb-item-title text-secondary">Volunteer</p>
+              <p class="blurb-item-content text-primary"><a href="mailto:volunteer@play.schule">volunteer@play.schule</a></p>
+            </div>
+          </div>
+          <div class="col-xl-3 col-md-6">
+            <div class="blurb"><i class="blurb-icon text-primary-darkest icon-paper-plane"></i>
+              <p class="blurb-heading text-primary">Message</p>
+              <p class="blurb-item-title text-secondary">SMS / WhatsApp</p>
+              <p class="blurb-item-content text-primary"><a href="tel:+443003654300">+44 (0)300 3654 300</a></p>
+              <p class="blurb-item-title text-secondary">Facebook / Instagram / Twitter</p>
+              <p class="blurb-item-content text-primary"><a href="tel:+443003654300">@playschule</a></p>
+            </div>
+          </div>
+          <div class="col-xl-3 col-md-6">
+            <div class="blurb"><i class="blurb-icon text-primary-darkest icon-pencil"></i>
+              <p class="blurb-heading text-primary">Write</p>
+              <p class="blurb-item-title text-secondary">General</p>
+              <address class="blurb-item-content text-primary">St Columbs Park House<br>4 Limavady Road<br>Derry, N. Ireland</address>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <section class="map" id="map">
+      <iframe width="100%" height="100%" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6472.311307200606!2d-7.311009484767658!3d55.002772754446895!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1560440217128!5m2!1sen!2suk"></iframe><br><small><a href="https://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;geocode=&amp;q=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;aq=0&amp;oq=twitter&amp;sll=28.659344,-81.187888&amp;sspn=0.128789,0.264187&amp;ie=UTF8&amp;hq=Twitter,+Inc.,+Market+Street,+San+Francisco,+CA&amp;t=m&amp;z=15&amp;iwloc=A"></a></small>
+    </section>
+    <section class="bg-primary content-section" id="links">
+      <div class="container">
+        <div class="row text-center">
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/events">Events</a></p>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/governance">Governance</a></p>
+              <ul class="qlink-item">
+                <li class="qlink-item"><a href="/documents/constitution">Constitution</a></li>
+                <li class="qlink-item"><a href="https://www.charitycommissionni.org.uk/charity-details/?regId=107244" target="_blank">Charity Commission Register</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink" id="policies">
+              <p><a class="qlink-header" href="/policies">Policies</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="/documents/child-protection"> Child Protection</a></li>
+                <li class="qlink-item"><a href="/documents/code-of-conduct">Code of Conduct</a></li>
+                <li class="qlink-item"><a href="/documents/health-and-safety">Health &amp; Safety</a></li>
+                <li class="qlink-item"><a href="/documents/safeguarding">Safeguarding</a></li>
+                <li class="qlink-item"><a href="/documents/volunteer">Volunteers</a></li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-md-3 col-sm-6">
+            <div class="qlink">
+              <p><a class="qlink-header" href="/projects">Projects</a></p>
+              <ul class="qlink-items">
+                <li class="qlink-item"><a href="#">After Schools</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+    <footer class="bg-primary-darkest text-center">
+      <p class="text-white small mb-0">&copy; PlaySchule 2019<br>Registered with the Charity Commission for Northern Ireland - NIC107244</p>
+    </footer><a class="scroll-to-top rounded js-scroll-trigger" href="#page-top"><i class="fas fa-angle-up"></i></a>
+    <script src="/assets/vendor/jquery/jquery.min.js"></script>
+    <script src="/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <!-- Plugin JavaScript-->
+    <script src="/assets/vendor/jquery-easing/jquery.easing.min.js"></script>
+    <!-- Custom scripts for this template-->
+    <script src="/assets/js/playschule.min.js"></script>
+  </body>
+</html>
